@@ -7,4 +7,4 @@ Two **chickens** run amoke in the yard. I need to find a way to [contain](https:
 
 Jonas watches Pocoyo.
 
-Is this thing deletable outside. 
+poof!
